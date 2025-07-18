@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Dipta!
 
-### 🚀 Full-Stack Web Developer | Tech Enthusiast | Lifelong Learner
+Web Developer | Tech Enthusiast | Lifelong Learner
 
 I'm a passionate full-stack developer from Bangladesh 🇧🇩 who loves building things for the web. I enjoy solving real-world problems with code and exploring new technologies.
 
@@ -27,7 +27,7 @@ I'm a passionate full-stack developer from Bangladesh 🇧🇩 who loves buildin
 
 ## 🔗 Connect with me:
 
-- Email: your.diptakarmakar395@gmail.com  
+- Email:diptakarmakar395@gmail.com  
 
 ---
 
