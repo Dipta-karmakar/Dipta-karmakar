@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Web Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&width=500&lines=Passionate+Web+Developer+from+Bangladesh;MERN+Stack+Explorer;Game+Dev+%7C+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&width=500&lines=Passionate+Web+Developer;MERN+Stack+Explorer;Game+Dev+%7C+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
