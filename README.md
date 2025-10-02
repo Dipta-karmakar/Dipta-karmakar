@@ -1,9 +1,13 @@
-<!-- Profile Header -->
+<!-- Banner (Optional – upload your own banner image to repo and update the link) -->
+<p align="center">
+  <img src="https://github.com/Dipta-karmakar/Dipta-karmakar/blob/main/assets/banner.png" alt="Banner" />
+</p>
+
 <h1 align="center">I'm Dipta!</h1>
-<h3 align="center">Full-Stack Web Developer | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center"> Full-Stack Web Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&width=500&lines=Passionate+Web+Developer;MERN+Stack+Explorer;Game+Dev+%7C+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&width=600&lines=Passionate+Web+Developer;MERN+Stack+Explorer;Game+Dev+%7C+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -50,11 +54,38 @@
 
 ---
 
+## 🎯 Featured Projects
+<p align="center">
+  <a href="https://github.com/Dipta-karmakar/your-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dipta-karmakar&repo=your-project-1&theme=radical" />
+  </a>
+  <a href="https://github.com/Dipta-karmakar/your-project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dipta-karmakar&repo=your-project-2&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 🎯 Beyond Coding
+- 📷 Passionate about **Portrait & Mobile Photography**  
+- 🎮 Enjoys **Game Development** (Unity & Unreal Engine)  
+- 🎓 Always exploring new technologies & ideas  
+- 🎬 Editing content with **Photoshop | Lightroom | CapCut**  
+
+---
+
 ## 🔗 Connect With Me
 <p align="center">
   <a href="mailto:diptakarmakar395@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Dipta-karmakar"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/Dipta-karmakar/Dipta-karmakar/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
